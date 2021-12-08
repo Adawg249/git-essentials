@@ -1,5 +1,3 @@
 # git-essentials
 
-## Deployment Notes
-
-## String Notes
+Some new stuff is now here
